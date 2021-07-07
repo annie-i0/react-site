@@ -3,8 +3,13 @@
 }
 
 .App-logo {
+  text-align: center;
   height: 40vmin;
   pointer-events: none;
+}
+
+.welcome {
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
